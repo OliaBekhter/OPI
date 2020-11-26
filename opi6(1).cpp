@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "OPI6(1)!\n";
+    std::cout << "OPI6(1)! YaY!\n";
 }
